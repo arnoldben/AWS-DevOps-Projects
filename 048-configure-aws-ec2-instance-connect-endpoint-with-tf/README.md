@@ -10,14 +10,14 @@ The EC2 Instance Connect (EIC) Endpoint is the interface through which users int
 
 | **Feature** | **EC2 Bastion Server** | **EC2 Instance Connect** |
 |-----------------------|--------------------|----------------------|
-| Setup Complexity      | Requires manual setup                                            | Easy to set up |
-| Public IP Requirement | Requires a public IP                                             | No public IP required |
-| Security              | Requires additional security configurations and maintenance      | Enhanced security through private network paths |
-| Connection Method     | SSH via bastion host                                             | SSH directly to instances |
-| Network Access        | Accesses instances in private subnets via bastion host           | Directly connects to instances in private subnets |
+| Setup Complexity      | Requires manual setup                                            | Easy to set up                                              |
+| Public IP Requirement | Requires a public IP                                             | No public IP required                                       |
+| Security              | Requires additional security configurations and maintenance      | Enhanced security through private network paths             |
+| Connection Method     | SSH via bastion host                                             | SSH directly to instances                                   |
+| Network Access        | Accesses instances in private subnets via bastion host           | Directly connects to instances in private subnets           |
 | Scalability           | Requires additional configuration for scaling and load balancing | Works well with auto-scaling and load-balanced environments |
-| Cost                  | Incurs additional cost for maintaining a bastion server          | No additional cost for EC2 Instance Connect |
-| Management            | Requires managing and maintaining a separate bastion server      | Simplified management and administration |
+| Cost                  | Incurs additional cost for maintaining a bastion server          | No additional cost for EC2 Instance Connect                 |
+| Management            | Requires managing and maintaining a separate bastion server      | Simplified management and administration                    |
 
 ## Project Components:
 - **VPC**: Virtual Private Cloud with private subnets across two availability zones.
