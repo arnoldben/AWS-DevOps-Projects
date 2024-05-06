@@ -42,9 +42,6 @@ Before you begin, ensure you have the following:
 - [Terraform Documentation](https://www.terraform.io/docs/index.html)
 - [AWS Documentation](https://docs.aws.amazon.com/index.html)
 
-## Contributors and Acknowledgments:
-This project was created by Arnold Ben, with inspiration and guidance from various online resources and the AWS community. Special thanks to [AOS Note](https://www.aosnote.com) for the invaluable resources and support.
-
 ## Additional Notes
 - Customize Terraform scripts and configurations as needed for your specific requirements.
 - Ensure proper IAM permissions and security measures are in place for managing AWS resources securely.
