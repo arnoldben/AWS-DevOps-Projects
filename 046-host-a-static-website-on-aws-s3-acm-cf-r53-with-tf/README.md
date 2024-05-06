@@ -6,7 +6,7 @@ This project demonstrates how to deploy a static website on Amazon Web Services 
 
 ## Reference Diagram
 
-![Reference Diagram](/images/archdiag_v1_2023-02_hoststaticwebsite_aws(s3,acm,cf,r53)_tf.png)
+![Reference Diagram](images/archdiag_v1_2023-02_hoststaticwebsite_aws(s3,acm,cf,r53)_tf.png)
 
 ## Project Components
 
