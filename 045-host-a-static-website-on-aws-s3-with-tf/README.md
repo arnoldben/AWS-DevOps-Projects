@@ -4,7 +4,7 @@
 This project demonstrates how to configure a static website on Amazon S3 using Terraform. The setup involves utilizing Amazon S3 for hosting static content. The provided scripts and configuration files automate the process of setting up a static website on Amazon S3.
 
 ## Reference Diagram
-![Reference Diagram](045-host-a-static-website-on-aws-s3-with-tf/images/archdiag_v1_2023-02_hoststaticwebsite_aws(s3)_tf.png)
+![Reference Diagram](images/archdiag_v1_2023-02_hoststaticwebsite_aws(s3)_tf.png)
 
 ## Project Components
 - **Amazon S3**: Serves as the origin for storing and hosting static website files.
