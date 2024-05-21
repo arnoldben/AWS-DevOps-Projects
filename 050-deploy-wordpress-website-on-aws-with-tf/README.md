@@ -39,10 +39,10 @@ Before you begin, ensure you have the following:
 
 ## Resources:
 - [Terraform Documentation](https://www.terraform.io/docs/index.html)
-- [AWS Documentation](https://docs.aws.amazon.com/index.html)
+- [AWS Documentation](https://docs.aws.amazon.com/index.html) 
 
 ## Additional Notes:
 - Customize Terraform scripts and configurations as needed for your specific requirements.
 - Ensure proper IAM permissions and security measures are in place for managing AWS resources securely.
 
-This README provides a structured overview of the project, outlines the necessary components, prerequisites, and steps to deploy and manage the WordPress website using Terraform on AWS.
+This README provides a structured overview of the project, outlines the necessary components, prerequisites, and steps to deploy and manage the WordPress website using Terraform on AWS..
