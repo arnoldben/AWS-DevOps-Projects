@@ -6,7 +6,7 @@ This project demonstrates how to deploy a dynamic e-commerce website on Amazon W
 
 ## Reference Diagram
 
-![Reference Diagram](path_to_diagram_image)
+![Reference Diagram](051-deploy-an-ecommerce-website-on-aws-with-tf/images/Deploy-a-Dynamic-E-commerce-Website-with-Terraform.drawio.png)
 
 ## Project Components
 
